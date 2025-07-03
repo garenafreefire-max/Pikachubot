@@ -1,7 +1,0 @@
-const {
-   makeWASocket 
-} 
-
-module.exports = () => {
-   
-}
